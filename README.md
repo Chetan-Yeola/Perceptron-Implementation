@@ -1,2 +1,2 @@
-# Perceptrn impmentation
+# Perceptron impmentation
 import the libraries
